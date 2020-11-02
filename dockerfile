@@ -1,3 +1,3 @@
 FROM httpd
-COPY static.web /usr/local/apche2/htdocs/
+COPY static.web /usr/local/apache2/htdocs/
 
