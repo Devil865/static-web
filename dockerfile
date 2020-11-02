@@ -1,3 +1,3 @@
 FROM httpd
-COPY .
+COPY static.web
 
