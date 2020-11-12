@@ -1,0 +1,123 @@
+class8:
+
+Compute:
+
+Ec2 -- Elastic compute cloud(Linux,/windows/ubantu/Centos)
+
+firewall(SG)ip
+
+
+
+
+enable the telnet in windows 1st
+
+www.eenadu.net
+telnet www.eenadu.net 80
+jenkins:8080
+telnet jenkins.com 8080
+
+alternate command for telnet is nc
+
+Hard disc partioning = data classification
+
+admin calls drives as a file system
+
+
+user path----C:\Users\subba---this is my home directory
+
+
+devops 
+
+c:\User\Devops--- devops users home directory
+
+
+In linux-----C:\Users---- /home ---all users home directories
+
+
+eg:--
+devops home directory
+/user/devops
+
+ec2-user
+/user/ec2-user
+
+root user?
+
+/home/root------no
+/root--- root home directory
+
+
+
+/home /devops/*---user profile files/ Folder
+
+windows command location
+C:\windows\system32
+
+
+
+remote server(linux) connection
+laptop(window)--- remote server
+
+
+
+what are the info required
+
+
+
+
+
+
+
+task launch the ec2(ubantu)
+login to the Aws console
+
+note:-- in Organisatio we create the own image( golden ami/security hardening ami)
+
+we can share ami from one ami to another aws account
+
+
+secirty group--- only allow rules (no deny rules)-- inbound rules
+
+
+in security group by default out bound rules are enable
+
+we are attaching the ec2
+
+ec2 is a zone service
+to check the server name hostname
+hostname 
+whoami
+switch to root user
+sudo -i
+sudo -su
+
+install apache in ubantu
+apache default portnumber 80
+connect to the linux ubuntu
+once go to the pem file location launch the command
+
+
+
+
+
+apt-get update ---- ubantu commands
+apt-get install apache2-- to install apache
+
+
+
+ssh -i ubuntu.pem root@13.232.83.17
+
+
+
+ssh -i ubuntu.pem root@ec2-3-89-160-26.compute-1.amazonaws.com
+
+
+
+
+enadu.net
+
+protocal:http
+IP:ena
+port:80
+
+

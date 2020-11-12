@@ -1,0 +1,7 @@
+what are the ingress controller are u using?
+Isthio ingress did u heard?
+write a docker file for tomcat?
+I have 10 cmds in docker?
+what kind of monitoring your using for kubernets?
+
+

@@ -1,0 +1,7 @@
+1.what is and CI and CD? --> 
+2. App related Isuues?
+3. SAAS application related - 
+4. How many stages are using?
+prod,preprod,staging
+5. tool - githlab version 11, jenekins
+6.

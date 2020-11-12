@@ -1,0 +1,49 @@
+Kubernates(K8):-
+=====================
+
+In K8 -- nodes--contains docker --and it contains Containers
+
+docker - unmanagable
+K8 managable- Arkestration(managed keyword called as)
+overlay :- manage multiple nodes
+
+
+Docket 2 types  
+Docker : We can creat image
+Docker Compose : Is used to create containers
+Docker Swarm :
+
+
+N/w:
+Bridge
+host
+overlay
+macvlan
+
+===============
+
+K8:
+
+Master -- Worker/Slave
+
+We can't run application in Master
+
+Contrainers also called "POD"
+
+Master -- apiserver ---kublet(Worker)
+
+apiserver -- Is like an IAM
+All the Pod and YML information will save in "etcd"
+
+config called as kubeconfig
+
+
+kubectl -- Isa client to intract with kubeconfig
+
+Commands:
+create
+delete
+edit
+
+POD -- svc(Service)
+	--ClusterIP, Nodepom, Loadbalancer
