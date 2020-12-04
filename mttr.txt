@@ -1,0 +1,17 @@
+1)Mrg status and ticket 
+p3c - 20 score
+
+2)QA sent to ramesha
+
+3)ticket trend
+Inc - select resolved date only hcl
+SR - select closed date only hcl
+
+team pareto :- INC and SR
+ kcs :- 
+80/total*100
+
+mttr :- resolved - created(only p3) - 
+
+-----------------------------------------
+
